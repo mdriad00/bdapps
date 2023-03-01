@@ -4,7 +4,7 @@ DEVELOP YOUR BDAPPS PRO APPS WITHOUT CODING & MANAGING A SERVER!
 
 বিডিঅ্যাপস ডেভলপারদের জন্য সুখবর, এখন কোডিং এবং নিজের সার্ভার ছাড়াই তৈরি করুন বিডিঅ্যাপস প্রো অ্যাপস!
 
-WATCH FULL VIDEO TUTORIALS: 
+WATCH FULL VIDEO TUTORIALS: https://youtu.be/exl-afESE2U
 
 To Create Pro Application: http://user.bdapps.com  
 To Create Hosting Profile: http://103.108.140.219
